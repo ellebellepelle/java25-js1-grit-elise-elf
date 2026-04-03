@@ -55,3 +55,4 @@ The app first converts the city name into coordinates (latitude and longitude) u
 - Requires an API key from OpenWeather
 - The API key is currently stored in the JavaScript file
 - Make sure not to expose your API key in public projects
+- ⚠️ Note: This project uses a public API key for demonstration purposes.
