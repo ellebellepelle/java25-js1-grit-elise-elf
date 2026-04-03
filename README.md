@@ -3,7 +3,7 @@
 A simple weather application that fetches real-time weather data using the OpenWeather API.
 
 ## 🌍 Live Demo
-*(lägg din GitHub Pages-länk här om du har en)*
+*(https://ellebellepelle.github.io/java25-js1-grit-elise-elf/)*
 
 ---
 
